@@ -1,0 +1,1 @@
+https://mikerodionov.com/unable-to-install-sql-server-2019-sql-install-error-the-mof-compiler-could-not-connect-with-the-wmi-server/
